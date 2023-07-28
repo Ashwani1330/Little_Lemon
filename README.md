@@ -6,7 +6,7 @@
 > This app has been inspired and created from the course **Create the User Interface in Android Studio** (by Meta) which is available on [Coursera](https://www.coursera.org/learn/create-the-user-interface-android-studio)  
 
 
-## Screenshot
+## Screenshots
 
 
 ![Screenshot from 2023-07-28 23-41-05](https://github.com/Ashwani1330/Little_Lemon/assets/84962178/86b50826-59c2-480c-a49e-dcbde6ac2a65)
